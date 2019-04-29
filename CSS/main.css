@@ -1,0 +1,16 @@
+header
+{
+    margin-top: 1em;
+}
+
+nav ul
+{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li
+{
+    flex: 1;
+    text-decoration: none;
+}
